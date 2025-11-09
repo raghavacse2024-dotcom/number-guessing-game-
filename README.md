@@ -91,7 +91,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-- [Your Name](https://github.com/raghavarulselvam)
+- [raghavarulselvam](https://github.com/raghavarulselvam)
 
 ---
 
